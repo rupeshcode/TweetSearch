@@ -25,7 +25,7 @@ SECRET_KEY = 'ta)_e4aw(t$2g@uhzs(yq$s=usc1@3d^tpv1$kt)nfpwj3l^jy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'ruptweet.pythonanywhere.com']
 
 
 # Application definition
