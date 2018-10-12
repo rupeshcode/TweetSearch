@@ -3,6 +3,8 @@
 API has be created to Stream, Search, filter, Export Tweets by a twitter streaming API
 It has been made to complete as assignment for Innovaccer Hacker Camp 2019.
 
+The assignment is currently hosted at http://ruptweet.pythonanywhere.com
+
 ### Built With
 
 1. Python3
